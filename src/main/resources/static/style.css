@@ -1,0 +1,57 @@
+body {
+    background-color: #1f1f1f !important;
+    color: white !important;
+}
+
+.bg-dark-light {
+     background-color: #282828 !important;
+}
+
+.card {
+    background-color: #282828 !important;
+}
+
+.form-group .logo {
+    font-family: Andale Mono, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.modal {
+    color: #212529;
+}
+
+.add-btn {
+    position: fixed;
+    bottom: 75px;
+    right: 75px;
+}
+
+.table, .alert {
+    text-align: center;
+}
+
+.table .role input {
+    margin-top: 9px;
+}
+
+.table-dark {
+     background-color: #282828!important;
+}
+
+.table-dark th, td {
+     border-color: #3e3e3e!important;
+}
+
+.user-info td {
+    padding:
+}
+
+.card-title {
+    font-size: 18px;
+}
